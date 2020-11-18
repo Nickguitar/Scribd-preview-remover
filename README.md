@@ -1,0 +1,1 @@
+# Scribd-preview-remover
